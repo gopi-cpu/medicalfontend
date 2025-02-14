@@ -4,49 +4,49 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 
         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
    <url>
-    <loc>https://medical-frontend-silk.vercel.app/</loc>
+    <loc>https://medicalfontend.vercel.app/</loc>
     <lastmod>2025-02-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://medical-frontend-silk.vercel.app/home</loc>
+    <loc>https://medicalfontend.vercel.app/home</loc>
     <lastmod>2025-02-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://medical-frontend-silk.vercel.app/services</loc>
+    <loc>https://medicalfontend.vercel.app/services</loc>
     <lastmod>2025-02-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://medical-frontend-silk.vercel.app/about</loc>
+    <loc>https://medicalfontend.vercel.app/about</loc>
     <lastmod>2025-02-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://medical-frontend-silk.vercel.app/book</loc>
+    <loc>https://medicalfontend.vercel.app/book</loc>
     <lastmod>2025-02-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://medical-frontend-silk.vercel.app/doctors</loc>
+    <loc>https://medicalfontend.vercel.app/doctors</loc>
     <lastmod>2025-02-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://medical-frontend-silk.vercel.app/blog</loc>
+    <loc>https://medicalfontend.vercel.app/blog</loc>
     <lastmod>2025-02-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://medical-frontend-silk.vercel.app/reviews</loc>
+    <loc>https://medicalfontend.vercel.app/reviews</loc>
     <lastmod>2025-02-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
